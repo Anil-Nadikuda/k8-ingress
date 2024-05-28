@@ -59,7 +59,7 @@ spec:
         path: "/"
         backend:
           service:
-            name: sapp2
+            name: app2
             port:
               number: 80
 
